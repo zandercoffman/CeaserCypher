@@ -1,0 +1,5 @@
+cd src/main/java
+javac CeaserCypherTest.java
+java CeaserCypherTest
+
+You can copy both of these and itl automatically do it when you paste
